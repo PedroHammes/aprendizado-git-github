@@ -1,0 +1,4 @@
+São o ponto central do versionamento.
+Cada branch corresponde à uma versão do código.
+Você pode alterar as branchs à vontade sem alterar o código principal.
+Quando você estiver stisfeito com as alterações pode enviar as edições da branch teste para a branch principal.
