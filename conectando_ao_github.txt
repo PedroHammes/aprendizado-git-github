@@ -1,0 +1,2 @@
+Essa é a parte simples.
+O github exibe um passo-a-passo de como conectar seu dispositivo ao repositório assim que você cria ele.
