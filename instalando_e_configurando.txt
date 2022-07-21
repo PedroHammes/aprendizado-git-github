@@ -1,0 +1,5 @@
+A instalação é simples, mas recomendo usar o windows PowerShell.
+Sou inexperiente no assunto, talvez justamente por isso esteja recomendando ele.
+Mas achei o PowerShell muito mais intuitivo e amigável para novos usuário (eu).
+Alguns comandos são diferentes e isso gera uma pequena confusão 
+    (e minutos gastos tentando encontrar o comando correto), mesmo assim minha opinião é positiva para o PowerShell.
