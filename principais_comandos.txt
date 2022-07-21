@@ -7,3 +7,4 @@ git branch = exibe as branchs disponíveis
 git -b branchName = cria uma nova branch
 git checkout branchName = muda para a branch desejada
 git checkout -b branchName = cria uma nova branch e muda para ela
+git merge branchName = compila na branch atual os arquivos da branch alvo
